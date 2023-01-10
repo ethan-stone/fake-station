@@ -9,3 +9,6 @@ edition = "2021"
 tungstenite = "*"
 tokio-tungstenite = "*"
 url = "*"
+tokio = { veresion = "*", features = ["full"]} 
+futures-util = "*"
+futures-channel = "*"
